@@ -139,3 +139,4 @@ Assets/WSATestCertificate.pfx
 *.sln
 UserSettings
 UIElementsSchema
+!Packages
