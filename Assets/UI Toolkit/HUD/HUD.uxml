@@ -1,0 +1,9 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement style="flex-grow: 1; flex-direction: column;">
+        <engine:VisualElement style="flex-grow: 1; flex-direction: column-reverse; margin-bottom: 60px; margin-left: 60px;">
+            <engine:Label text="Label" name="Throttle" />
+            <engine:Label text="Label" name="Speed" />
+            <engine:Label text="Label" name="Position" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
